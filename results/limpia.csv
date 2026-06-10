@@ -1,0 +1,116 @@
+"","year","nobilis","cambio","miembros"
+"1",2000,"DRA.","primer ingreso",1813
+"2",2001,"DRA.","primer ingreso",306
+"3",2001,"DRA.","perdio SNI",92
+"4",2001,"DRA.","baja nivel",2
+"5",2001,"DRA.","se mantiene",1560
+"6",2001,"DRA.","sube nivel",159
+"7",2002,"DRA.","primer ingreso",472
+"8",2002,"DRA.","perdio SNI",95
+"9",2002,"DRA.","reingreso",14
+"10",2002,"DRA.","baja nivel",5
+"11",2002,"DRA.","se mantiene",1738
+"12",2002,"DRA.","sube nivel",189
+"13",2003,"DRA.","perdio SNI",1
+"14",2003,"DRA.","se mantiene",2417
+"15",2004,"DRA.","primer ingreso",348
+"16",2004,"DRA.","perdio SNI",70
+"17",2004,"DRA.","reingreso",38
+"18",2004,"DRA.","baja nivel",6
+"19",2004,"DRA.","se mantiene",2231
+"20",2004,"DRA.","sube nivel",110
+"21",2005,"DRA.","primer ingreso",341
+"22",2005,"DRA.","perdio SNI",156
+"23",2005,"DRA.","reingreso",23
+"24",2005,"DRA.","baja nivel",2
+"25",2005,"DRA.","se mantiene",2434
+"26",2005,"DRA.","sube nivel",141
+"27",2006,"DRA.","primer ingreso",495
+"28",2006,"DRA.","perdio SNI",179
+"29",2006,"DRA.","reingreso",50
+"30",2006,"DRA.","baja nivel",8
+"31",2006,"DRA.","se mantiene",2515
+"32",2006,"DRA.","sube nivel",239
+"33",2007,"DRA.","primer ingreso",511
+"34",2007,"DRA.","perdio SNI",117
+"35",2007,"DRA.","reingreso",64
+"36",2007,"DRA.","se mantiene",3054
+"37",2007,"DRA.","sube nivel",136
+"38",2008,"DRA.","primer ingreso",524
+"39",2008,"DRA.","perdio SNI",153
+"40",2008,"DRA.","reingreso",54
+"41",2008,"DRA.","baja nivel",5
+"42",2008,"DRA.","se mantiene",3379
+"43",2008,"DRA.","sube nivel",228
+"44",2009,"DRA.","primer ingreso",502
+"45",2009,"DRA.","perdio SNI",283
+"46",2009,"DRA.","reingreso",66
+"47",2009,"DRA.","baja nivel",15
+"48",2009,"DRA.","se mantiene",3659
+"49",2009,"DRA.","sube nivel",233
+"50",2010,"DRA.","primer ingreso",509
+"51",2010,"DRA.","perdio SNI",296
+"52",2010,"DRA.","reingreso",93
+"53",2010,"DRA.","baja nivel",18
+"54",2010,"DRA.","se mantiene",3907
+"55",2010,"DRA.","sube nivel",254
+"56",2011,"DRA.","primer ingreso",503
+"57",2011,"DRA.","perdio SNI",312
+"58",2011,"DRA.","reingreso",100
+"59",2011,"DRA.","baja nivel",13
+"60",2011,"DRA.","se mantiene",4263
+"61",2011,"DRA.","sube nivel",193
+"62",2012,"DRA.","primer ingreso",467
+"63",2012,"DRA.","perdio SNI",345
+"64",2012,"DRA.","reingreso",90
+"65",2012,"DRA.","baja nivel",13
+"66",2012,"DRA.","se mantiene",4497
+"67",2012,"DRA.","sube nivel",217
+"68",2013,"DRA.","primer ingreso",633
+"69",2013,"DRA.","perdio SNI",339
+"70",2013,"DRA.","reingreso",154
+"71",2013,"DRA.","baja nivel",21
+"72",2013,"DRA.","se mantiene",4641
+"73",2013,"DRA.","sube nivel",283
+"74",2014,"DRA.","primer ingreso",747
+"75",2014,"DRA.","perdio SNI",360
+"76",2014,"DRA.","reingreso",150
+"77",2014,"DRA.","baja nivel",20
+"78",2014,"DRA.","se mantiene",4989
+"79",2014,"DRA.","sube nivel",363
+"80",2015,"DRA.","primer ingreso",125
+"81",2015,"DRA.","perdio SNI",318
+"82",2015,"DRA.","reingreso",136
+"83",2015,"DRA.","baja nivel",25
+"84",2015,"DRA.","se mantiene",5660
+"85",2015,"DRA.","sube nivel",266
+"86",2016,"DRA.","primer ingreso",964
+"87",2016,"DRA.","perdio SNI",427
+"88",2016,"DRA.","reingreso",135
+"89",2016,"DRA.","baja nivel",14
+"90",2016,"DRA.","se mantiene",5441
+"91",2016,"DRA.","sube nivel",330
+"92",2017,"DRA.","primer ingreso",1071
+"93",2017,"DRA.","perdio SNI",451
+"94",2017,"DRA.","reingreso",172
+"95",2017,"DRA.","baja nivel",18
+"96",2017,"DRA.","se mantiene",6043
+"97",2017,"DRA.","sube nivel",372
+"98",2018,"DRA.","primer ingreso",1075
+"99",2018,"DRA.","perdio SNI",342
+"100",2018,"DRA.","reingreso",145
+"101",2018,"DRA.","baja nivel",29
+"102",2018,"DRA.","se mantiene",7081
+"103",2018,"DRA.","sube nivel",224
+"104",2019,"DRA.","primer ingreso",225
+"105",2019,"DRA.","perdio SNI",651
+"106",2019,"DRA.","reingreso",164
+"107",2019,"DRA.","baja nivel",23
+"108",2019,"DRA.","se mantiene",7492
+"109",2019,"DRA.","sube nivel",388
+"110",2020,"DRA.","primer ingreso",1572
+"111",2020,"DRA.","perdio SNI",671
+"112",2020,"DRA.","reingreso",3023
+"113",2020,"DRA.","baja nivel",25
+"114",2020,"DRA.","se mantiene",7147
+"115",2020,"DRA.","sube nivel",449
